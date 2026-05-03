@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ali Shukurov</h1>
-<h3 align="center">Backend Developer | Java Developer</h3>
+<h3 align="center">Java Backend Developer | Spring Boot Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-- ☕ I work with **Java & Spring Boot**
-- 🔐 Interested in **Cyber Security & Backend Systems**
-- 🛠️ Building REST APIs and scalable systems
-- 🌱 Currently improving my backend skills
+- ☕ Passionate Java Backend Developer
+- 🔐 Interested in Backend Systems, APIs & Cyber Security
+- 🛠️ Building REST APIs with Spring Boot
+- 🌱 Constantly improving my backend engineering skills
+- 🎯 Focused on writing clean, scalable and maintainable code
 
 ---
 
 ## ⚙️ Tech Stack
 - 💻 Java, Spring Boot
 - 🗄️ MySQL, PostgreSQL
-- 🔗 REST API
-- 🧠 OOP, Data Structures
+- 🔗 REST APIs, HTTP, Microservices (learning)
+- 🧠 OOP, Data Structures, SOLID Principles
+- 🧰 Git, GitHub
 
 ---
 
@@ -26,17 +28,11 @@
 
 ---
 
-## 🔥 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliwka44&theme=react-dark" />
-</p>
-
----
-
-## 💻 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliwka44&layout=compact&theme=tokyonight" />
-</p>
+## 🎯 Goals
+- Build real-world backend projects
+- Improve system design skills
+- Learn Microservices architecture
+- Contribute to open-source projects
 
 ---
 
