@@ -21,13 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliwka44&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Goals
 - Build real-world backend projects
 - Improve system design skills
